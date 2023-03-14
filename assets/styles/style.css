@@ -1,0 +1,49 @@
+header {
+    margin-bottom: 30px;
+}
+
+
+.navbar-brand.text-white {
+    margin-left: 70px;
+}
+
+main {
+    margin-bottom: -256px;
+}
+
+.btn-1.btn.btn-primary {
+    width:100px;
+
+}
+
+.card-body-1 {
+    height: 300px;
+}
+
+
+.card-deck {
+    margin-bottom: 300px;
+    margin-top: 30px;
+}
+
+.card {
+    width: 500px;
+    height: 325px;
+    margin-bottom: 50px;
+}
+
+
+.card-body {
+    font-size: 12px;
+    margin-top: 0px;
+}
+
+.card-title {
+    margin-top: -22px;
+}
+
+.card-text {
+    font-size: 10px;
+    margin-bottom: 0px;
+}
+
