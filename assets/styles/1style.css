@@ -1,0 +1,155 @@
+body {
+max-width: 1440px;
+}
+
+.header__navigation {
+position: absolute;
+width: 1440px;
+height: 40px;
+left: 0px;
+top: 0px;
+filter: drop-shadow(0px 1px 1px rgba(0, 0, 0, 0.15));
+}
+
+
+.header__navigation__image {
+position: absolute;
+width: 1440px;
+height: 40px;
+left: 0px;
+top: 0px;
+}
+
+.header__navigation__text {
+position: absolute;
+width: 23px;
+height: 16px;
+left: 679px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+text-align: center;
+color: #000000;
+opacity: 0.5;
+}
+
+main {
+    max-width: 1440px;
+}
+
+.container-1__logo_sign {
+margin-top: 90px;
+margin-left: 76px;
+margin-right: 11px;
+width: 40px;
+height: 40px;      
+}
+
+.container-1__logo_viarushka {
+height: 17.75px;
+width: 149.38671875px;
+border-radius: 0px;
+}
+
+.container-2 {
+    max-width: 1440px;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.main {
+display: grid;
+}
+
+.container-2__vr-without-wires__header {
+width: 542px;
+height: 216px;
+margin-left: 136px;
+margin-top: 76px;
+margin-bottom: 10px;
+font-size: 60px;
+font-weight: 400;
+line-height: 72px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+
+.container-2__vr-without-wires__text {
+width: 487px;
+height: 96px;
+margin-left: 126px;
+margin-top: 10px;
+margin-bottom: 30px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 160%;
+}
+
+.container-2__vr-without-wires__button-buy {
+width: 270px;
+height: 84px;
+margin-left: 116px;
+margin-top: 30px;
+margin-bottom: 146px;
+}
+
+.container-2__image__guy {
+    width: 1096.34px;
+    height: 724.31px;
+    margin-top: 88px;
+}
+
+.footer__nav__menu__item-1, .footer__nav__menu__item-2, .footer__nav__menu__item-3, .footer__nav__menu__item-4 {
+    list-style-type: none;
+}
+
+.footer__nav__menu__item-1__link, .footer__nav__menu__item-2__link, .footer__nav__menu__item-3__link, .footer__nav__menu__item-4__link {
+    text-decoration: none;
+    color:#5222D0;
+}
+
+.footer__nav__menu {
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.footer__nav__menu__item-1 {
+    width: 139px;
+    height: 32px;
+    margin-left: 126px;
+    margin-bottom: 80px;
+    margin-top: 146px;
+    margin-right: 34px;
+}
+
+.footer__nav__menu__item-2 {
+    width: 111px;
+    height: 32px;
+    margin-bottom: 80px;
+    margin-top: 146px;
+    margin-left: 34px;
+}
+
+.footer__nav__menu__item-3 {
+    width: 95px;
+    height: 32px;
+    margin-bottom: 80px;
+    margin-top: 146px;
+    margin-left: 34px;
+  
+}
+
+.footer__nav__menu__item-4 {
+    width: 85px;
+    height: 32px;
+    margin-left: 34px;
+    margin-bottom: 80px;
+    margin-top: 146px;
+}
