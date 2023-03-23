@@ -149,7 +149,7 @@ grid-template-columns:  139px 111px 95px 85px;
     margin-top: 146px;
 }
 
-.container__main {
+.container {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
